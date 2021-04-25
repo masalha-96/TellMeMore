@@ -10,4 +10,3 @@ alert('Welcome To My Page Mr/Ms ' + userName + ' :: Your Age is ' + userAge + ' 
 
 
 //document.write('Welcome To My Page Mr/Ms ' + userName + ' Your Age is ' + userAge + ' Your Perfect Weight is ' + userResult);
-
