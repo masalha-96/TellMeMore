@@ -1,5 +1,5 @@
 
-let  userName = prompt("Hello I'm doing a simple survey, this will be quick, lets start with your name?");
+let  userName = prompt("Hello I'm doing a quick survey, so lets start with your name?");
 let userAge = prompt('Welcome ' + userName + ' How old are you?');
 let userTall = prompt(userAge +' Cool!, How tall are you ' + userName+ '? in (m) please. ');
 let userWeight = prompt('How much do you weigh?');
